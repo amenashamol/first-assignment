@@ -1,0 +1,171 @@
+body{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    margin-bottom: 80px;
+    padding: 5px;
+}
+
+h1{
+    font-size: 50px;
+    
+    }
+    
+h2{
+    font-size: 40px;
+    text-align: center;
+    }
+
+h3{
+    font-size: 30px;
+        
+            
+    }   
+
+h4{
+    font-size: 25px;
+    
+        
+    }
+    
+
+
+
+.spn-color{
+    color:#ff3c00;
+}
+
+.section-first-part{
+    display:flex;
+    
+}
+
+
+
+.border-section{
+    padding-left: 8px;
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(5, 126, 156),cyan);
+    border-image-slice: 1;
+}
+
+
+.Education{
+    padding-left: 8px;
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(218, 80, 26),rgb(255, 166, 0));
+    border-image-slice: 1;
+}
+
+.Experience{
+    padding-left: 8px;
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(224, 48, 48),rgb(226, 35, 35));
+    border-image-slice: 1;
+}
+
+.section-third-part{
+    display:flex;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+
+
+.section-fifth-part{
+    display:flex;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+
+.section-fifth-part img{
+    margin-left: 170px;
+}
+
+
+
+.half-width{
+    width:50%;
+    padding-left: 3%;
+    
+}
+
+.half-width img{
+    width:60%;
+    padding-left: 10px;
+    
+    
+}
+
+
+
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(tomato,#ff3333);
+    border-radius: 6px;
+    color: white;
+    padding:6px;
+}
+
+.button-3{
+    background-image:linear-gradient(#fc7703,#e78937); 
+}
+
+.card-container{
+    display:flex;
+    padding-left: 15px;
+    margin-bottom: 100px;
+    
+}
+
+.card{
+    width: 30%;
+    
+    padding-left: 30px;
+    margin-right: 1%;
+    margin-left: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.card-1{
+    background-color: rgb(207, 194, 207);
+
+}
+
+.card-2{
+    background-color: rgb(173, 179, 161);
+
+}
+
+.card-3{
+    background-color: rgb(209, 248, 244) ;
+
+}
+
+footer {
+    background-color: rgb(12, 12, 11);
+}
+
+footer p{
+    text-align: center;
+    padding-bottom: 70px;
+    color:rgb(250, 216, 216);
+}
+
+footer h1{
+    text-align: center;
+    color: white;
+    padding-bottom: 2px;
+    padding-top: 30px;
+}
+
+
